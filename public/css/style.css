@@ -1,0 +1,55 @@
+.container-fluid {
+    margin: 0;
+    padding: 0;
+}
+
+#nav-container {
+    width: 95%;
+    margin: 0 auto;
+}
+
+#product-section, #jumbotron-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.card {
+    width: 100%;
+}
+
+.product-image {
+    margin-top: 20px;
+    height: 280px;
+    overflow: hidden;
+}
+
+.card-title {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.card-text {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#product-col {
+    margin: 15px 0;
+}
+
+.card-img-top {
+    object-fit: scale-down;
+    height: 280px;
+}
+
+.form-inline .form-control {
+    flex: 0;
+    width: 100px;
+    padding: 10px;
+    text-align: center;
+}
+
+#submit-button {
+    width: auto;
+    white-space: nowrap;
+}

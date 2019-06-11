@@ -1,0 +1,86 @@
+[
+    {
+        "product_name": "An Introduction to Service Design: Designing the Invisible, by Lara Penin",
+        "department_name": "Books",
+        "price": 33.96,
+        "stock_quantity": 103,
+        "image": "../assets/1.jpg"
+    },
+    {
+        "product_name": "Nebula Capsule by Anker - Smart Portable Wi-Fi Mini Projector",
+        "department_name": "Electronics",
+        "price": 299.99,
+        "stock_quantity": 86,
+        "image": "../assets/2.jpg"
+    },
+    {
+        "product_name": "Design Is Storytelling, by Ellen Lupton",
+        "department_name": "Books",
+        "price": 9.50,
+        "stock_quantity": 99,
+        "image": "../assets/3.jpg"
+    },
+    {
+        "product_name": "Wacaco Minipresso - Portable Espresso Machine, Small Travel Coffee Maker, Manually Operated from Piston Action",
+        "department_name": "Electronics",
+        "price": 45.11,
+        "stock_quantity": 47,
+        "image": "../assets/4.jpg"
+    },
+    {
+        "product_name": "Lap Desk - Fits up to 17' Laptop Desk, Built in Mouse Pad & Wrist Pad with Tablet, Pen & Phone Holder (Wood Grain)",
+        "department_name": "Office Supplies",
+        "price": 49.99,
+        "stock_quantity": 60,
+        "image": "../assets/5.jpg"
+    },
+    {
+        "product_name": "Grid Paper Notebook - Lemome Hardcover Classic Notebook with Pen Holder - Thick Premium Paper + Page Dividers Gifts 8.4 x 5.7 in",
+        "department_name": "Office Supplies",
+        "price": 13.99,
+        "stock_quantity": 28,
+        "image": "../assets/6.jpg"
+    },
+    {
+        "product_name": "BamazonBasics Stainless Steel Electric Kettle - 1-Liter",
+        "department_name": "Electronics",
+        "price": 20.99,
+        "stock_quantity": 75,
+        "image": "../assets/7.jpg"
+    },
+    {
+        "product_name": "Ink+Ivy Mid Century Modern Accent Chair - Comfortable All Foam Lounge Armchair Sturdy Solid Wood Frame Z Rocket Retro Style",
+        "department_name": "Furniture",
+        "price": 349.05,
+        "stock_quantity": 33,
+        "image": "../assets/8.jpg"
+    },
+    {
+        "product_name": "Zuo Modern Park West Side Table, Mid-Century Modern Style, Clean Lines and Walnut Tones",
+        "department_name": "Furniture",
+        "price": 203.49,
+        "stock_quantity": 33,
+        "image": "../assets/9.jpg"
+    },
+    {
+        "product_name": "Shop Succulents Radiant Rosette Collection of LiveSucculent Plants, Hand Selected Variety Pack of Mini Succulents",
+        "department_name": "Pation, Lawn & Garden",
+        "price": 29.99,
+        "stock_quantity": 12,
+        "image": "../assets/10.jpg"
+    },
+    {
+        "product_name": "Kate and Laurel Sylvie Cactus Framed Canvas by F2 Images, 18x24, Gold",
+        "department_name": "Home Decor",
+        "price": 47.49,
+        "stock_quantity": 8,
+        "image": "../assets/11.jpg"
+    },
+    {
+        "product_name": "Lifewit White Nightstand with 2 Drawers, Bedside Table Bedroom Side Table, Modern Accent Table, 15.7 × 11.7 × 24.4 in",
+        "department_name": "Furniture",
+        "price": 59.99,
+        "stock_quantity": 30,
+        "image": "../assets/12.jpg"
+    }
+]
