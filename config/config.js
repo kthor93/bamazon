@@ -1,9 +1,9 @@
 module.exports = {
     "development": {
         "username": "root",
-        "password": "hotsriracha",
+        "password": process.env.DB_PASS,
         "database": "bamazon",
-        "host": "127.0.0.1",
+        "host": process.env.DB_HOST,
         "dialect": "mysql"
     },
     "production": {

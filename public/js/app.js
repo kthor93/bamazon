@@ -7,10 +7,11 @@ $(document).ready(function () {
         const name = product.product_name;
         const price = product.price;
         const image = product.image;
+        const id = product.id;
 
         $("#product-row").append(`
                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12 col-xs-12" id="product-col">
-          <div class="card">
+          <div class="card" id="${id}">
             <div class="product-image">
               <img src="${image}" class="card-img-top">
             </div>
@@ -36,12 +37,11 @@ $(document).ready(function () {
   }
 
   $(document).on("click", ".submit", function (event) {
-    event.preventDefault;
+    event.preventDefault();
 
-    const product = this.data.product;
-    const orderQty = $("#quantity").val();
+    const orderQty = this.$("#quantity").val();
 
-    $.get("/api/products/" + product, function (product) {
+    $.get("/api/products/" + id, function (product) {
       const stockQty = product.stock_quantity;
 
       if (stockQty < orderQty) {

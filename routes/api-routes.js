@@ -23,6 +23,8 @@ module.exports = function (app) {
             where: {
                 product_name: req.body.product_name
             }
+        }).then(function (results) {
+            res.json(results);
         });
-    })
+    });
 }
